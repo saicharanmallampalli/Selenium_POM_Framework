@@ -1,0 +1,673 @@
+2025-07-17 17:24:27 INFO  BaseTest:16 - Launching Chrome Driver
+2025-07-17 17:24:32 INFO  TestListener:29 - Starting Test:testTextFormSubmission
+2025-07-17 17:25:48 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:25:48 ERROR TestListener:16 - Test FAILED: testTextFormSubmission
+2025-07-17 17:25:48 ERROR TestListener:16 - Test FAILED: testTextFormSubmission
+2025-07-17 17:26:23 INFO  BaseTest:16 - Launching Chrome Driver
+2025-07-17 17:26:26 INFO  TestListener:29 - Starting Test:testTextFormSubmission
+2025-07-17 17:27:44 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:27:44 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 17:27:44 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 17:27:44 ERROR TestListener:16 - Test FAILED: testTextFormSubmission
+2025-07-17 17:27:44 ERROR TestListener:16 - Test FAILED: testTextFormSubmission
+2025-07-17 17:45:35 INFO  BaseTest:20 - Launching Chrome Driver
+2025-07-17 17:45:39 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 17:46:15 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:46:16 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 17:46:16 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 17:46:16 INFO  TextBoxPage:46 - Entering cAddress: Telangana
+2025-07-17 17:46:16 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 17:46:17 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_174616.png
+2025-07-17 17:48:15 INFO  BaseTest:20 - Launching Chrome Driver
+2025-07-17 17:48:17 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 17:48:21 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:48:21 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 17:48:21 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 17:48:21 INFO  TextBoxPage:46 - Entering cAddress: Telangana
+2025-07-17 17:48:21 INFO  TextBoxPage:51 - Entering submitBtn: By.xpath: //button[text(),'Submit']
+2025-07-17 17:48:21 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 17:48:22 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_174821.png
+2025-07-17 17:50:59 INFO  BaseTest:20 - Launching Chrome Driver
+2025-07-17 17:51:02 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 17:52:20 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:52:20 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 17:52:20 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 17:52:20 INFO  TextBoxPage:46 - Entering cAddress: Telangana
+2025-07-17 17:52:20 INFO  TextBoxPage:51 - Entering submitBtn: By.xpath: //button[text()'Submit']
+2025-07-17 17:52:20 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 17:52:20 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_175220.png
+2025-07-17 17:54:08 INFO  BaseTest:20 - Launching Chrome Driver
+2025-07-17 17:54:11 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 17:54:14 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 17:54:14 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 17:54:14 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 17:54:14 INFO  TextBoxPage:46 - Entering cAddress: Telangana
+2025-07-17 17:54:14 INFO  TextBoxPage:51 - Entering submitBtn: By.xpath: //button[text()'Submit']
+2025-07-17 17:54:14 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 17:54:16 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_175414.png
+2025-07-17 19:50:08 INFO  BaseTest:20 - Launching Chrome Driver
+2025-07-17 19:50:11 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 19:50:24 INFO  TextBoxPage:31 - Entering fullname: Charan QA
+2025-07-17 19:50:24 INFO  TextBoxPage:36 - Entering userEmailTB: saicharan@gmail.com
+2025-07-17 19:50:24 INFO  TextBoxPage:41 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-17 19:50:24 INFO  TextBoxPage:46 - Entering cAddress: Telangana
+2025-07-17 19:50:24 INFO  TextBoxPage:51 - Entering submitBtn: By.xpath: //button[text()='Submit']
+2025-07-17 19:50:24 INFO  TestListener:27 - Test Success: testTextFormSubmission
+2025-07-17 21:04:10 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:04:13 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:04:13 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:04:13 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:04:14 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_210413.png
+2025-07-17 21:05:27 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:05:30 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:05:30 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:05:30 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:05:30 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_210530.png
+2025-07-17 21:07:45 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:07:47 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:07:47 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:07:47 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:07:47 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_210747.png
+2025-07-17 21:08:57 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:08:59 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:08:59 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:08:59 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:08:59 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_210859.png
+2025-07-17 21:13:02 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:13:05 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:13:05 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:13:15 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:13:16 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_211315.png
+2025-07-17 21:14:20 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 21:14:20 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:14:48 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 21:14:48 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:15:21 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:15:24 INFO  TestListener:32 - Starting Test:clickTextBoxMenu
+2025-07-17 21:15:24 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 21:15:27 INFO  BaseTest:23 - Navigating to Text Box Menu
+2025-07-17 21:15:27 ERROR TestListener:18 - Test FAILED: clickTextBoxMenu
+2025-07-17 21:15:27 INFO  TestListener:22 - Screenshot/clickTextBoxMenu_20250717_211527.png
+2025-07-17 21:15:28 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 21:15:29 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 21:15:29 INFO  TextBoxPage:33 - Entering fullname: Charan QA
+2025-07-17 21:15:39 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 21:15:39 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_211539.png
+2025-07-17 23:14:51 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 23:14:54 INFO  TestListener:32 - Starting Test:clickTextBoxMenu
+2025-07-17 23:14:54 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 23:14:54 INFO  BaseTest:24 - Navigating to Text Box Menu
+2025-07-17 23:15:05 ERROR TestListener:18 - Test FAILED: clickTextBoxMenu
+2025-07-17 23:15:05 INFO  TestListener:22 - Screenshot/clickTextBoxMenu_20250717_231505.png
+2025-07-17 23:15:05 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 23:15:07 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 23:15:17 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 23:15:17 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_231517.png
+2025-07-17 23:53:25 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 23:53:28 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 23:53:28 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 23:53:32 INFO  BaseTest:26 - Navigating to Text Box Menu
+2025-07-17 23:53:42 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 23:53:43 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_235342.png
+2025-07-17 23:57:10 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-17 23:57:13 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-17 23:57:13 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-17 23:57:13 INFO  HomePage:28 - Element Page Clicked
+2025-07-17 23:57:13 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-17 23:57:16 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250717_235713.png
+2025-07-18 00:10:58 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 00:11:00 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 00:11:00 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 00:11:03 INFO  HomePage:28 - Element Page Clicked
+2025-07-18 00:11:03 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 00:11:03 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_001103.png
+2025-07-18 00:13:18 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 00:13:20 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 00:13:20 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 00:13:24 INFO  HomePage:28 - Element Page Clicked
+2025-07-18 00:13:24 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 00:13:24 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_001324.png
+2025-07-18 00:14:56 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 00:14:59 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 00:14:59 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 00:15:02 INFO  HomePage:28 - Element Page Clicked
+2025-07-18 00:15:03 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 00:15:03 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_001503.png
+2025-07-18 00:16:31 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 00:16:33 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 00:16:33 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 00:17:51 INFO  HomePage:28 - Element Page Clicked
+2025-07-18 00:18:01 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 00:18:01 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_001801.png
+2025-07-18 01:42:08 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:42:11 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:42:11 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:42:11 INFO  HomePage:28 - Element Page Clicked
+2025-07-18 01:42:15 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 01:42:15 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_014215.png
+2025-07-18 01:43:10 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:43:12 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:43:12 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:43:15 INFO  HomePage:30 - Element Page Clicked
+2025-07-18 01:43:26 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 01:43:26 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_014326.png
+2025-07-18 01:45:47 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:45:49 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:45:49 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:45:53 INFO  HomePage:30 - Element Page Clicked
+2025-07-18 01:45:53 INFO  BaseTest:27 - Navigating to Text Box Menu
+2025-07-18 01:46:03 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 01:46:04 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_014603.png
+2025-07-18 01:47:51 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:47:53 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:47:53 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:47:53 INFO  HomePage:30 - Element Page Clicked
+2025-07-18 01:47:57 INFO  BaseTest:27 - Navigating to Text Box Menu
+2025-07-18 01:47:57 INFO  TextBoxPage:37 - Entering fullname: Charan QA
+2025-07-18 01:47:57 INFO  TextBoxPage:43 - Entering userEmailTB: saicharan@gmail.com
+2025-07-18 01:47:57 INFO  TextBoxPage:49 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-18 01:47:57 INFO  TextBoxPage:55 - Entering cAddress: Telangana
+2025-07-18 01:47:57 INFO  TextBoxPage:61 - Entering submitBtn: By.xpath: //button[text()='Submit']
+2025-07-18 01:47:58 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 01:47:58 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_014758.png
+2025-07-18 01:49:35 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:49:38 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:49:38 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:49:41 INFO  HomePage:30 - Element Page Clicked
+2025-07-18 01:49:41 INFO  BaseTest:27 - Navigating to Text Box Menu
+2025-07-18 01:49:41 INFO  TextBoxPage:39 - Entering fullname: Charan QA
+2025-07-18 01:49:41 INFO  TextBoxPage:45 - Entering userEmailTB: saicharan@gmail.com
+2025-07-18 01:49:41 INFO  TextBoxPage:51 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-18 01:49:41 INFO  TextBoxPage:57 - Entering cAddress: Telangana
+2025-07-18 01:49:42 INFO  TextBoxPage:63 - Entering submitBtn: By.xpath: //button[text()='Submit']
+2025-07-18 01:49:43 ERROR TestListener:18 - Test FAILED: testTextFormSubmission
+2025-07-18 01:49:43 INFO  TestListener:22 - Screenshot/testTextFormSubmission_20250718_014943.png
+2025-07-18 01:52:16 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-18 01:52:18 INFO  TestListener:32 - Starting Test:testTextFormSubmission
+2025-07-18 01:52:18 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-18 01:52:21 INFO  HomePage:30 - Element Page Clicked
+2025-07-18 01:52:21 INFO  BaseTest:27 - Navigating to Text Box Menu
+2025-07-18 01:52:22 INFO  TextBoxPage:39 - Entering fullname: Charan QA
+2025-07-18 01:52:22 INFO  TextBoxPage:45 - Entering userEmailTB: saicharan@gmail.com
+2025-07-18 01:52:22 INFO  TextBoxPage:51 - Entering cAddress: L.B Nagar, Hyderabad
+2025-07-18 01:52:22 INFO  TextBoxPage:57 - Entering cAddress: Telangana
+2025-07-18 01:52:22 INFO  TextBoxPage:63 - Waiting for and clicking submitBtn...
+2025-07-18 01:52:22 WARN  TextBoxPage:74 - Ad iframe removed before clicking Submit
+2025-07-18 01:52:22 INFO  TestListener:27 - Test Success: testTextFormSubmission
+2025-07-19 18:38:02 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 18:38:05 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 18:38:08 INFO  HomePage:30 - Element Page Clicked
+2025-07-19 18:38:08 INFO  BaseTest:18 - Navigating to Radio Button Menu
+2025-07-19 18:38:08 INFO  RadioButtonPage:39 - Impressive button clicked
+2025-07-19 18:38:08 INFO  RadioButtonPage:25 - Yes button clicked
+2025-07-19 18:38:08 INFO  RadioButtonPage:32 - No button enabled
+2025-07-19 19:42:29 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:42:31 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:42:34 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:47:50 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:47:52 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:47:55 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:47:55 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 19:48:22 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:48:23 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:48:24 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:48:26 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 19:49:15 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:49:16 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:49:20 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:49:21 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 19:50:16 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:50:18 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:50:18 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:50:21 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 19:51:41 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 19:51:43 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 19:52:04 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 19:52:06 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 20:59:18 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 20:59:21 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:00:38 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:00:38 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 21:02:01 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:02:02 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:02:06 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:02:06 INFO  BaseTest:20 - Navigating to Alerts Window
+2025-07-19 21:11:02 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:11:04 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:11:04 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:11:07 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:11:49 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:11:51 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:11:54 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:11:54 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:13:23 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:13:24 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:13:28 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:13:28 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:17:06 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:17:08 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:17:11 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:17:11 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:17:11 INFO  AlertsPage:29 - triggerAlert Clicked
+2025-07-19 21:17:11 INFO  AlertsPage:36 - triggerTimerAlert Clicked
+2025-07-19 21:18:14 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:18:16 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:18:19 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:18:19 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:18:19 INFO  AlertsPage:29 - triggerAlert Clicked
+2025-07-19 21:18:19 INFO  AlertsPage:36 - triggerTimerAlert Clicked
+2025-07-19 21:18:55 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:18:56 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:18:57 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:18:59 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:18:59 INFO  AlertsPage:29 - triggerAlert Clicked
+2025-07-19 21:19:00 INFO  AlertsPage:36 - triggerTimerAlert Clicked
+2025-07-19 21:34:40 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:34:41 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:34:42 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:34:46 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:34:46 INFO  AlertsPage:33 - triggerAlert Clicked
+2025-07-19 21:34:46 INFO  AlertsPage:40 - triggerTimerAlert Clicked
+2025-07-19 21:34:51 INFO  AlertsPage:52 - triggerConfirm Clicked
+2025-07-19 21:36:23 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-19 21:36:25 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-19 21:36:26 INFO  HomePage:42 - Alerts Page Clicked
+2025-07-19 21:36:28 INFO  BaseTest:21 - Navigating to Alerts Window
+2025-07-19 21:36:28 INFO  AlertsPage:33 - triggerAlert Clicked
+2025-07-19 21:36:28 INFO  AlertsPage:40 - triggerTimerAlert Clicked
+2025-07-19 21:36:33 INFO  AlertsPage:52 - triggerConfirm Clicked
+2025-07-19 21:36:33 INFO  AlertsPage:62 - triggerPrompt Clicked
+2025-07-20 01:07:57 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:07:59 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:08:02 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:08:02 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:08:03 INFO  SelectMenuPage:31 - Select Value Menu Clicked
+2025-07-20 01:25:08 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:25:10 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:25:11 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:25:11 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:25:13 INFO  SelectMenuPage:33 - Select Value Menu Clicked
+2025-07-20 01:25:14 INFO  SelectMenuPage:45 - Select One Menu Clicked
+2025-07-20 01:29:43 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:29:45 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:29:46 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:29:46 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:29:48 INFO  SelectMenuPage:33 - Select Value Menu Clicked
+2025-07-20 01:29:48 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 01:31:02 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:31:04 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:31:07 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:31:07 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:31:07 INFO  SelectMenuPage:33 - Select Value Menu Clicked
+2025-07-20 01:31:07 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 01:38:40 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:38:42 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:38:46 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:38:46 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:38:46 INFO  SelectMenuPage:33 - Select Value Menu Clicked
+2025-07-20 01:38:46 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 01:39:35 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:39:37 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:39:40 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:39:40 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:39:40 INFO  SelectMenuPage:33 - Select Value Menu Clicked
+2025-07-20 01:39:40 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 01:51:21 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:51:23 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:51:27 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:51:27 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:51:27 INFO  SelectMenuPage:35 - Select Value Menu Clicked
+2025-07-20 01:51:27 INFO  SelectMenuPage:48 - Select One Menu Clicked
+2025-07-20 01:52:21 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:52:23 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:52:24 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:52:24 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:52:26 INFO  SelectMenuPage:35 - Select Value Menu Clicked
+2025-07-20 01:52:27 INFO  SelectMenuPage:48 - Select One Menu Clicked
+2025-07-20 01:54:49 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:54:51 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:54:54 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:54:54 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:54:54 INFO  SelectMenuPage:35 - Select Value Menu Clicked
+2025-07-20 01:54:55 INFO  SelectMenuPage:48 - Select One Menu Clicked
+2025-07-20 01:58:26 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:58:28 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:58:29 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:58:29 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:58:31 INFO  SelectMenuPage:38 - Select Value Menu Clicked
+2025-07-20 01:58:31 INFO  SelectMenuPage:52 - First dropdown closed successfully.
+2025-07-20 01:58:31 INFO  SelectMenuPage:57 - Select One Menu Clicked
+2025-07-20 01:59:23 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 01:59:24 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 01:59:26 INFO  BaseTest:19 - Click on the 
+2025-07-20 01:59:26 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 01:59:28 INFO  SelectMenuPage:38 - Select Value Menu Clicked
+2025-07-20 01:59:28 INFO  SelectMenuPage:52 - First dropdown closed successfully.
+2025-07-20 01:59:28 INFO  SelectMenuPage:56 - Select One Menu Clicked
+2025-07-20 02:15:13 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:15:15 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:15:19 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:15:19 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:15:19 INFO  SelectMenuPage:32 - Select Value Menu Clicked
+2025-07-20 02:15:19 INFO  SelectMenuPage:39 - First dropdown closed successfully.
+2025-07-20 02:15:19 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 02:18:56 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:18:58 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:18:58 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:18:58 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:19:01 INFO  SelectMenuPage:34 - Select Value Menu Clicked
+2025-07-20 02:19:01 INFO  SelectMenuPage:44 - First dropdown closed successfully.
+2025-07-20 02:19:01 INFO  SelectMenuPage:49 - Select One Menu Clicked
+2025-07-20 02:33:55 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:33:56 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:34:50 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:34:52 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:34:53 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:34:53 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:34:55 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:34:55 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:34:55 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:34:55 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:34:55 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:34:55 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:38:42 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:38:44 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:38:47 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:38:47 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:38:47 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:38:48 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:38:48 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:38:48 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:38:48 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:38:48 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:39:58 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:40:00 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:40:00 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:40:00 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:40:03 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:40:03 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:40:03 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:40:03 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:40:03 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:40:03 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:40:17 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:40:18 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:40:19 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:40:19 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:40:21 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:40:22 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:40:22 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:40:22 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:40:22 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:40:22 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:43:32 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:43:34 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:43:37 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:43:37 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:43:37 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:43:37 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:43:37 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:43:37 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:43:37 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:43:37 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:48:30 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:48:32 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:48:35 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:48:35 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:48:35 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:48:35 INFO  SelectMenuPage:46 - First dropdown closed successfully.
+2025-07-20 02:48:35 INFO  SelectMenuPage:51 - Select One Menu Clicked
+2025-07-20 02:48:35 INFO  SelectMenuPage:64 - Second dropdown closed successfully.
+2025-07-20 02:48:35 INFO  SelectMenuPage:70 - Old Style Select Menu Clicked
+2025-07-20 02:48:35 INFO  SelectMenuPage:77 - Multi Select Menu Clicked
+2025-07-20 02:52:37 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:52:39 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:52:43 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:52:43 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:52:43 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:52:43 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 02:52:43 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 02:52:43 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 02:52:43 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 02:52:43 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 02:52:43 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 02:57:24 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:57:25 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:57:29 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:57:29 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:57:29 INFO  SelectMenuPage:32 - Select Value Menu Clicked
+2025-07-20 02:57:29 INFO  SelectMenuPage:38 - First dropdown closed successfully.
+2025-07-20 02:57:29 INFO  SelectMenuPage:43 - Select One Menu Clicked
+2025-07-20 02:58:03 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:58:05 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:58:09 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:58:09 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:58:09 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:58:09 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 02:58:09 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 02:58:09 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 02:58:09 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 02:58:09 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 02:58:09 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 02:59:11 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 02:59:13 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 02:59:13 INFO  BaseTest:19 - Click on the 
+2025-07-20 02:59:13 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 02:59:21 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 02:59:21 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 02:59:21 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 02:59:21 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 02:59:21 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 02:59:21 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 02:59:21 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:03:29 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:03:32 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:03:33 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:03:33 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:03:37 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:03:37 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:03:37 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:03:37 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:03:37 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:03:37 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:03:37 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:03:43 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:03:46 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:03:46 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:03:46 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:03:49 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:03:49 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:03:49 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:03:50 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:03:50 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:03:51 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:03:51 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:04:34 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:04:35 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:04:36 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:04:36 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:04:38 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:04:38 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:04:38 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:04:38 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:04:39 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:04:39 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:04:39 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:05:22 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:05:24 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:05:25 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:05:25 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:05:27 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:05:27 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:05:27 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:05:27 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:05:27 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:05:27 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:05:27 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:05:37 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:05:39 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:06:07 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:06:09 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:06:12 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:06:12 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:06:12 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:06:12 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:06:12 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:06:12 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:06:12 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:06:12 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:06:12 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:06:17 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:06:18 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:06:19 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:06:19 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:06:21 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:06:22 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:06:22 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:06:22 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:06:22 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:06:22 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:06:22 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:06:28 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:06:29 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:06:32 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:06:32 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:06:32 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:06:33 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:06:33 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:06:33 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:06:33 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:06:33 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:06:33 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:06:50 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:06:51 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:06:54 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:06:54 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:06:54 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:06:54 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:06:54 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:06:54 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:06:54 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:06:54 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:06:54 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:07:02 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:07:04 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:07:07 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:07:07 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:07:07 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:07:07 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:07:07 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:07:07 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:07:07 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:07:07 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:07:16 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:08:40 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:08:42 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:08:43 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:08:43 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:08:46 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:08:46 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:08:46 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:08:46 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:08:46 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:08:46 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:08:46 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:12:50 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:12:51 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:12:52 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:12:52 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:12:55 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:12:55 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:12:55 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:12:55 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:12:55 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:12:55 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:13:00 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:13:29 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:13:31 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:13:34 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:13:34 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:13:34 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:13:34 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:13:34 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:13:34 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:13:34 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:13:34 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:13:34 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:18:34 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:18:36 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:18:39 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:18:39 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:18:39 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:18:40 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:18:40 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:18:40 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:18:40 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:18:40 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:18:40 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:23:53 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:23:55 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:23:56 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:23:56 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:23:58 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:23:59 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:23:59 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:23:59 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:23:59 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:23:59 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:23:59 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:27:37 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:27:38 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:27:41 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:27:41 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:27:41 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:27:42 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:27:42 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:27:42 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:27:42 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:27:42 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:27:42 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:29:26 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:29:29 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:29:29 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:29:29 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:29:32 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:29:32 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:29:32 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:29:32 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:29:32 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:29:32 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:29:32 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:33:29 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:33:30 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:33:33 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:33:33 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:33:33 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:33:34 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:33:34 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:33:34 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:33:34 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:33:34 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:33:34 INFO  SelectMenuPage:76 - Multi Select Menu Clicked
+2025-07-20 09:41:21 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:41:24 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:41:27 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:41:27 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:41:27 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:41:27 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:41:27 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:41:28 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:41:28 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:41:28 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:41:28 INFO  SelectMenuPage:75 - Multi Select Menu Clicked
+2025-07-20 09:42:01 INFO  BaseTest:22 - Launching Chrome Driver
+2025-07-20 09:42:02 INFO  BaseTest:28 - Navigating to the Home Pagehttps://demoqa.com/
+2025-07-20 09:42:05 INFO  BaseTest:19 - Click on the 
+2025-07-20 09:42:05 INFO  HomePage:50 - Widgets Page Clicked
+2025-07-20 09:42:05 INFO  SelectMenuPage:36 - Select Value Menu Clicked
+2025-07-20 09:42:05 INFO  SelectMenuPage:45 - First dropdown closed successfully.
+2025-07-20 09:42:05 INFO  SelectMenuPage:50 - Select One Menu Clicked
+2025-07-20 09:42:05 INFO  SelectMenuPage:62 - Second dropdown closed successfully.
+2025-07-20 09:42:05 INFO  SelectMenuPage:68 - Old Style Select Menu Clicked
+2025-07-20 09:42:06 INFO  SelectMenuPage:71 - Third dropdown closed successfully.
+2025-07-20 09:42:06 INFO  SelectMenuPage:75 - Multi Select Menu Clicked
