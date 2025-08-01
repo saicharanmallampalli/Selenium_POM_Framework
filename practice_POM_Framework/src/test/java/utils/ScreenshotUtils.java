@@ -10,9 +10,12 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-public class ScreenshotUtils {
+import base.BaseTest;
+
+public class ScreenshotUtils extends BaseTest{
 	
 	public static String captureScreenshot(WebDriver driver, String testName) {
+		 if (BaseTest.driver != null) {
 		
 		String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
 		String screenshotName = "Screenshot/"+ testName + "_" + timeStamp + ".png";
@@ -25,6 +28,11 @@ public class ScreenshotUtils {
 		}
 		
 		return screenshotName;	
+		 } else {
+			 
+			 System.out.println("Driver is null. Cannot take screenshot.");
+		     return null;
+		 }
 		
 	}
 

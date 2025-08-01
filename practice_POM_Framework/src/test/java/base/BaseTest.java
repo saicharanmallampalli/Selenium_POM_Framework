@@ -13,7 +13,7 @@ import utils.ExcelUtils;
 
 public class BaseTest {
 	
-	protected WebDriver driver;
+	protected static WebDriver driver;
 	protected static final Logger logger = LogManager.getLogger(BaseTest.class);
 	
 	public WebDriver getDriver() {
@@ -29,9 +29,9 @@ public class BaseTest {
     }
     
     protected void navigateToHomePage(String siteName) throws IOException {	
-    	String url = ExcelUtils.getURLfromExcel(siteName);
+    	String url = ExcelUtils.getURLFromExcel(siteName);
     	driver.get(url);
-    	logger.info("Navigating to the Home Page"+ ExcelUtils.getURLfromExcel(siteName));
+    	logger.info("Navigating to the Home Page"+ ExcelUtils.getURLFromExcel(siteName));
     }
     
 

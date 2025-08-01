@@ -1,0 +1,13 @@
+# Maven / IntelliJ / Eclipse ignored files
+target/
+logs/
+test-output/
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+
+# Reports
+reports/
+*.html
